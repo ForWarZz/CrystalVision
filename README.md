@@ -12,6 +12,7 @@ If you reach to have better result or if you have improvements to give. \ _You c
 - Finish software to use the model (league of legends local api ?)
 - Optimization + better code
 - Data analytics to train better the IA's model
+- Update dependencies (TensorFlow...)
 
 ## Contact
 You can easly contact me on **Discord**, if you got question or improvement... \
