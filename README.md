@@ -6,7 +6,8 @@ I am an IA beginner. This is my first project about AI, neural network, using Py
 **_All the data used to train the model were scraped using the official RIOT API (~80 000 games...)_**
 
 ## Contribution
-If you reach to have better result or if you have improvements to give. \ _You can pull your changes because this interests me a lot._
+If you reach to have better result or if you have improvements to give.
+_You can pull your changes because this interests me a lot._
 
 ## TODO
 - Finish software to use the model (league of legends local api ?)
