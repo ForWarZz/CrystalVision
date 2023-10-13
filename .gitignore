@@ -2,6 +2,4 @@ logs
 venv
 .idea
 
-model.h5
-
 __pycache__
