@@ -10,7 +10,7 @@ If you reach to have better result or if you have improvements to give.
 _You can pull your changes because this interests me a lot._
 
 ## TODO
-- Finish software to use the model (league of legends local api ?)
+- Test league of legends local API
 - Optimization + better code
 - Data analytics to train better the IA's model
 - Update dependencies (TensorFlow...)
