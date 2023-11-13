@@ -1,5 +1,5 @@
 # CrystalVision
-Crystal Vision is an IA able to predict the result of a LOL game, from and only from the draft time.\
+Crystal Vision is an AI able to predict the result of a LOL game, from and only from the draft time.\
 __The model is currently ~70% accurate.__
 
 ## About the project
